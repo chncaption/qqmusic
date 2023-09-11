@@ -21,7 +21,7 @@
     "stylus": "^0.56.0",
     "stylus-loader": "^6.2.0",
     "vue": "^2.5.2",
-    "vue-router": "^4.0.13"
+    "vue-router": "^4.2.4"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
